@@ -22,4 +22,5 @@ The primary objective of this project is to analyze the operational and behavior
   # Customer Lifecycle & DemographicsInsight: Customers are at their highest risk of dropping services within their first 12 months of tenure. Furthermore, senior citizens experience higher churn rates, reflecting increased price sensitivity or poor support experiences.
   #  Insight: Conversely, gender displays no statistically significant variance; male and female customer churn behaviors are nearly identical.  4. Strategic Recommendations & Action PlanTo successfully reduce customer attrition, a phased mitigation roadmap has been built out within the executive presentation deck
   # Breif Report
-  < a href=""
+  < a href="https://github.com/sahilchandane/Customer-Churn-Prediiction/blob/main/Telco%20Customer%20Churn%20Analysis%20ppt.pptx">Report</a>
+  
