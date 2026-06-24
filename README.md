@@ -16,13 +16,18 @@ The primary objective of this project is to analyze the operational and behavior
 - Corrected data types
 - Created Dax
   ## Analysis Inaight
-  # Contract Type ImpactInsight: Month-to-Month contract customers account for nearly all recorded churn.  Business Implication: Long-term commitments (1-year and 2-year contracts) demonstrate exceptionally strong customer loyalty.
-  #  Internet Service VulnerabilityInsight: Fiber Optic subscribers exhibit the highest churn rate across all internet service categories.  Business Implication: This trend indicates potential issues regarding network service quality, competitive pricing pressures, or misaligned customer expectations.
-  #  Billing & Payment MethodsInsight: Customers utilizing Electronic Checks are highly susceptible to churn.  Business Implication: Automated, frictionless billing setups (like Credit Card or Bank AutoPay) correlate significantly with higher retention rates.
-  # Customer Lifecycle & DemographicsInsight: Customers are at their highest risk of dropping services within their first 12 months of tenure. Furthermore, senior citizens experience higher churn rates, reflecting increased price sensitivity or poor support experiences.
-  #  Insight: Conversely, gender displays no statistically significant variance; male and female customer churn behaviors are nearly identical.  4. Strategic Recommendations & Action PlanTo successfully reduce customer attrition, a phased mitigation roadmap has been built out within the executive presentation deck
+  # Contract Type ImpactInsight:
+   Month-to-Month contract customers account for nearly all recorded churn.  Business Implication: Long-term commitments (1-year and 2-year contracts) demonstrate exceptionally strong customer loyalty.
+  #  Internet Service VulnerabilityInsight:
+  - Fiber Optic subscribers exhibit the highest churn rate across all internet service categories.  Business Implication: This trend indicates potential issues regarding network service quality, competitive pricing pressures, or misaligned customer expectations.
+  #  Billing & Payment MethodsInsight:
+  - Customers utilizing Electronic Checks are highly susceptible to churn.  Business Implication: Automated, frictionless billing setups (like Credit Card or Bank AutoPay) correlate significantly with higher retention rates.
+  # Customer Lifecycle & DemographicsInsight:
+  - Customers are at their highest risk of dropping services within their first 12 months of tenure. Furthermore, senior citizens experience higher churn rates, reflecting increased price sensitivity or poor support experiences.
+  #  Insight:
+  - Conversely, gender displays no statistically significant variance; male and female customer churn behaviors are nearly identical.  4. Strategic Recommendations & Action PlanTo successfully reduce customer attrition, a phased mitigation roadmap has been built out within the executive presentation deck
   # Breif Report
-  < a href="https://github.com/sahilchandane/Customer-Churn-Prediiction/blob/main/Telco%20Customer%20Churn%20Analysis%20ppt.pptx">Report</a>
+ - <a href="https://github.com/sahilchandane/Customer-Churn-Prediiction/blob/main/Telco%20Customer%20Churn%20Analysis%20ppt.pptx">Report</a>
   # Dashboard Insight
-   < a href="https://github.com/sahilchandane/Customer-Churn-Prediiction/blob/main/Customer%20churn%20Report.pbix">Dashboard</a>
+   <a href="https://github.com/sahilchandane/Customer-Churn-Prediiction/blob/main/Customer%20churn%20Report.pbix">Dashboard</a>
   
