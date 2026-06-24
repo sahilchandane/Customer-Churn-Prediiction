@@ -23,4 +23,6 @@ The primary objective of this project is to analyze the operational and behavior
   #  Insight: Conversely, gender displays no statistically significant variance; male and female customer churn behaviors are nearly identical.  4. Strategic Recommendations & Action PlanTo successfully reduce customer attrition, a phased mitigation roadmap has been built out within the executive presentation deck
   # Breif Report
   < a href="https://github.com/sahilchandane/Customer-Churn-Prediiction/blob/main/Telco%20Customer%20Churn%20Analysis%20ppt.pptx">Report</a>
+  # Dashboard Insight
+   < a href="https://github.com/sahilchandane/Customer-Churn-Prediiction/blob/main/Customer%20churn%20Report.pbix">Dashboard</a>
   
