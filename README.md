@@ -30,4 +30,5 @@ The primary objective of this project is to analyze the operational and behavior
  - <a href="https://github.com/sahilchandane/Customer-Churn-Prediiction/blob/main/Telco%20Customer%20Churn%20Analysis%20ppt.pptx">Report</a>
   # Dashboard Insight
    <a href="https://github.com/sahilchandane/Customer-Churn-Prediiction/blob/main/Customer%20churn%20Report.pbix">Dashboard</a>
-  
+  # Conclusion
+The Telco Customer Churn Analysis highlights that customer attrition is a critical business challenge driven primarily by structural contract terms, payment friction, and specific service delivery issues rather than basic customer demographics. By addressing high-risk vulnerabilities—such as migrating Month-to-Month subscribers to long-term commitments, auditing the pricing and performance of Fiber Optic services, and shifting manual check users to automated payment frameworks—the company can systematically curb customer loss. Furthermore, prioritizing optimized onboarding during the critical first year of customer tenure and embedding predictive analytics will allow the organization to proactively intervene before at-risk accounts exit. Executing these data-driven retention strategies will ultimately safeguard recurring revenue, maximize customer lifetime value, and position the company for sustainable, long-term profitability in a highly competitive telecom landscape.
